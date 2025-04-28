@@ -1,0 +1,3 @@
+Name    = shridhar
+Age     = 29
+Salary  = 20.00
